@@ -66,13 +66,12 @@ The analysis includes several visualizations to better understand the data:
 ## 📈 Model Performance
 
 | Metric | Value |
-|----------|--------:|
-| Mean Absolute Error (MAE) | *(Your Output)* |
-| Root Mean Squared Error (RMSE) | *(Your Output)* |
-| R² Score | *(Your Output)* |
+|---------|------:|
+| Mean Absolute Error (MAE) | **1.46** |
+| Root Mean Squared Error (RMSE) | **1.78** |
+| R² Score | **0.8994** |
 
-The Linear Regression model achieved a good prediction accuracy, showing a strong relationship between advertising expenditure and sales.
-
+The Linear Regression model achieved an **R² score of 0.8994**, indicating that it explains approximately **90% of the variation in sales** based on the advertising budget. The low MAE and RMSE values also suggest that the model predicts sales with good accuracy.
 ---
 
 ## 💡 Key Insights
